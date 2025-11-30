@@ -39,7 +39,7 @@ const Maintenance: React.FC = () => {
                     className="group inline-flex items-center gap-2 px-8 py-4 bg-white text-black rounded-full font-medium hover:bg-gray-200 transition-all duration-300 hover:scale-105"
                 >
                     <ArrowLeft size={20} className="group-hover:-translate-x-1 transition-transform" />
-                    <span>返回首頁</span>
+                    <span>回到首頁</span>
                 </Link>
             </div>
 
